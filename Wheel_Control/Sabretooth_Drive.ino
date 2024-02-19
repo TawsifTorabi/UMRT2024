@@ -1,4 +1,4 @@
-//Tank Style Control for Differential Drive Wheeled Robot
+//Tank Style Control for Differential Drive Wheeled Robot using PS4 Controller
 // Software Serial Sample for Packet Serial
 // Copyright (c) 2012 Dimension Engineering LLC
 // See license.txt for license details.
